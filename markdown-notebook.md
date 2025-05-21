@@ -1,8 +1,3 @@
----
-layout: default
-title: 我的主页
----
-
 # ***markdown学习***
 
 [返回主页](/ "qaq不要走")
